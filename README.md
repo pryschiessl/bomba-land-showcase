@@ -13,7 +13,7 @@ A edição de outubro de 2026 integra o mapa, a Rich House e a Tech Polis. Na Ri
 
 O mapa usa React e TypeScript com Vite. A Rich House e a Tech Polis têm entradas HTML próprias e usam JavaScript no navegador. A edição editorial foi publicada como pacote estático validado, por envio manual ao Cloudflare Pages. A demonstração publicada reúne a distribuição completa.
 
-Esta documentação descreve a edição de outubro. O repositório público histórico da Bomba Land ainda contém código e assets da versão de agosto. A árvore desse repositório e o pacote editorial em produção correspondem a versões diferentes.
+Esta documentação descreve a edição de outubro. O repositório histórico privado da Bomba Land ainda contém código e assets da versão de agosto. A árvore desse repositório e o pacote editorial em produção correspondem a versões diferentes.
 
 O pacote editorial foi conferido por SHA-256 e restaurado localmente. A geração de todos os bundles a partir das fontes ainda não foi demonstrada. Esta apresentação documental não inclui o pacote necessário para executar a experiência completa.
 

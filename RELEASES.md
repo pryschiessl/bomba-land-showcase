@@ -4,7 +4,7 @@
 
 A primeira edição do distrito Berrini / Faria Lima Square reuniu o mapa interativo e a Rich House 24H. A edição incluiu o Bomba Energy Core, Music Studio, DJ Deck, Record Wall, BOMBAR e Super Powers, com layouts para desktop e mobile.
 
-O código e os assets da base de agosto permanecem no repositório público histórico. Esse registro documenta a primeira edição da experiência.
+O código e os assets da base de agosto permanecem no repositório histórico privado. Esse registro documenta a primeira edição da experiência.
 
 ## Outubro de 2026 — edição editorial com Tech Polis v0.6.11
 
